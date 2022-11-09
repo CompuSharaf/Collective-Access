@@ -1,0 +1,11 @@
+2021-11-09 2:51:20 - ERROR --> Error importing FZH CV.doc from OpenKM/Collections/FZH Fayza Heikal/FZH Documents: No media was specified
+2021-11-09 2:51:20 - ERROR --> Error importing FZH 058.jpg from OpenKM/Collections/FZH Fayza Heikal/FZH Photos: No media was specified
+2021-11-09 2:51:32 - ERROR --> Error importing FZH Narrative 1of4.mp4 from OpenKM/Collections/FZH Fayza Heikal/FZH Videos: File could not be processed for media: Couldn't do transformation 'SCALE'
+2021-11-09 2:51:32 - ERROR --> Error importing FZH Promo 1.5 min..mp4 from OpenKM/Collections/FZH Fayza Heikal/FZH Videos: No media was specified
+2021-11-09 2:51:33 - ERROR --> Error importing ISL0114-DC01-A-Door of Emir Qajmas al Ishaqi, Batanouni XX a.jpg from OpenKM/Projects/WOOBEX Catalogue/Burgi Mamluks/114 Qijmas al-Ishaqi/04 Photos: No media was specified
+2021-11-09 2:51:33 - ERROR --> Error importing QIJMAS.dwg.DWG from OpenKM/Projects/WOOBEX Catalogue/Burgi Mamluks/114 Qijmas al-Ishaqi/06 Drawings: No media was specified
+2021-11-09 2:51:33 - ERROR --> Error importing Qijmas Minbar M1L.dwg from OpenKM/Projects/WOOBEX Catalogue/Burgi Mamluks/114 Qijmas al-Ishaqi/06 Drawings: No media was specified
+2021-11-09 2:51:33 - ERROR --> Error importing 2010 Qijmas Gazbeya El Hamamsy Text.pdf from OpenKM/Projects/WOOBEX Catalogue/Burgi Mamluks/114 Qijmas al-Ishaqi/07 Bibliography: No media was specified
+2021-11-09 2:51:33 - ERROR --> Error importing 2010 Qijmas Gazbeya Elhamamsy-figures.pdf from OpenKM/Projects/WOOBEX Catalogue/Burgi Mamluks/114 Qijmas al-Ishaqi/07 Bibliography: No media was specified
+2021-11-09 2:51:34 - ERROR --> Error importing el-Fakahani Mosque (1).pdf from OpenKM/Projects/WOOBEX Catalogue/Fatimids/109 Fakahani Mosque/03 Comite': No media was specified
+2021-11-09 2:51:34 - ERROR --> Error importing el-Fakahani Mosque.pdf from OpenKM/Projects/WOOBEX Catalogue/Fatimids/109 Fakahani Mosque/03 Comite': No media was specified

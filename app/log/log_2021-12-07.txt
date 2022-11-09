@@ -1,0 +1,10 @@
+2021-12-07 3:07:53 - ERROR --> DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', l.locale_id, l.representation_id
+							ORDER BY l.name' at line 5
+2021-12-07 4:33:58 - ERROR --> DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', l.locale_id, l.representation_id
+							ORDER BY l.name' at line 5
+2021-12-07 4:35:08 - ERROR --> DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', l.locale_id, l.representation_id
+							ORDER BY l.name' at line 5
+2021-12-07 4:35:19 - ERROR --> DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', l.locale_id, l.representation_id
+							ORDER BY l.name' at line 5
+2021-12-07 5:40:30 - ERROR --> DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', l.locale_id, l.representation_id
+							ORDER BY l.name' at line 5

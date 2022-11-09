@@ -1,0 +1,1 @@
+["<ifdef code=\"ca_objects.idno\">(^ca_objects.idno)<\/ifdef>","<ifdef code=\"ca_objects.description\"><div class=\"smallText\">^ca_objects.description<\/div><\/ifdef>","barcode:code128:5:^ca_objects.idno","^ca_objects.preferred_labels.name <ifdef code=\"ca_objects.idno\">(^ca_objects.idno)<\/ifdef>"]

@@ -1,0 +1,6 @@
+2022-02-14 14:44:18 - ERROR --> [loadImporterFromFile:/tmp/phpTmCAZX] You must set a code for your mapping!
+2022-02-14 14:44:18 - ERROR --> [loadImporterFromFile:/tmp/phpqmheA0] You must set a code for your mapping!
+2022-02-14 14:45:30 - ERROR --> [loadImporterFromFile:/tmp/phpUO0JVE] You must set a code for your mapping!
+2022-02-14 14:45:30 - ERROR --> [loadImporterFromFile:/tmp/phpj05MqH] You must set a code for your mapping!
+2022-02-14 14:46:01 - ERROR --> [loadImporterFromFile:/tmp/php79QfWT] You must set a code for your mapping!
+2022-02-14 14:46:01 - ERROR --> [loadImporterFromFile:/tmp/phpg2ELuT] You must set a code for your mapping!

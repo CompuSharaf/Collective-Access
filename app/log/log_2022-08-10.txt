@@ -1,0 +1,2 @@
+2022-08-10 7:05:17 - ERROR --> DatabaseException: No such file or directory
+2022-08-10 7:05:33 - ERROR --> DatabaseException: No such file or directory

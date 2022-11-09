@@ -1,0 +1,2 @@
+2021-12-14 2:50:42 - ERROR --> DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', l.locale_id, l.representation_id
+							ORDER BY l.name' at line 5

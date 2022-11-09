@@ -1,0 +1,1 @@
+2022-04-06 5:21:05 - ERROR --> DatabaseException: Duplicate entry '60e67f172a229c21a42075f4500ac9c4' for key 'ca_persistent_cache.PRIMARY'

@@ -1,0 +1,63 @@
+2021-11-08 3:00:11 - ERROR --> [loadImporterFromFile:/tmp/phpp9DSfQ] Mapping target table #ca_table# is invalid
+
+2021-11-08 3:14:14 - INFO --> Started import of  using mapping nadim
+2021-11-08 3:14:14 - ERROR --> Could not read source  (format=XLSX)
+2021-11-08 5:54:25 - INFO --> Started import of /tmp/phpWHbRi4 using mapping nadim
+2021-11-08 5:54:25 - DEBUG --> Finished reading input source at    0.0088 seconds
+2021-11-08 5:54:25 - DEBUG --> Found 4 rows in input source
+2021-11-08 5:54:25 - DEBUG --> Finished analyzing mapping at    0.0118 seconds
+2021-11-08 5:54:25 - DEBUG --> Skipped initial row 0 of 1
+2021-11-08 5:54:25 - DEBUG --> Started reading row 2 at    0.0000 seconds
+2021-11-08 5:54:25 - WARN --> [%] Skipped group 5 because target #ca_table is invalid
+2021-11-08 5:54:25 - WARN --> [%] Skipped group 6 because target #ca_table is invalid
+2021-11-08 5:54:25 - WARN --> [%] Skipped group 7 because target #ca_entities is invalid
+2021-11-08 5:54:25 - WARN --> [%] Skipped group 8 because target #ca_table is invalid
+2021-11-08 5:54:25 - DEBUG --> Finished building content tree for % at    0.0006 seconds [2]
+2021-11-08 5:54:25 - DEBUG --> Content tree is
+Array
+(
+)
+
+2021-11-08 5:54:25 - DEBUG --> Started reading row 3 at    0.0000 seconds
+2021-11-08 5:54:25 - WARN --> [%] Skipped group 5 because target #ca_table is invalid
+2021-11-08 5:54:25 - WARN --> [%] Skipped group 6 because target #ca_table is invalid
+2021-11-08 5:54:25 - WARN --> [%] Skipped group 7 because target #ca_entities is invalid
+2021-11-08 5:54:25 - WARN --> [%] Skipped group 8 because target #ca_table is invalid
+2021-11-08 5:54:25 - DEBUG --> Finished building content tree for % at    0.0004 seconds [3]
+2021-11-08 5:54:25 - DEBUG --> Content tree is
+Array
+(
+)
+
+2021-11-08 5:54:25 - DEBUG --> Started reading row 4 at    0.0000 seconds
+2021-11-08 5:54:25 - WARN --> [%] Skipped group 5 because target #ca_table is invalid
+2021-11-08 5:54:25 - WARN --> [%] Skipped group 6 because target #ca_table is invalid
+2021-11-08 5:54:25 - WARN --> [%] Skipped group 7 because target #ca_entities is invalid
+2021-11-08 5:54:25 - WARN --> [%] Skipped group 8 because target #ca_table is invalid
+2021-11-08 5:54:25 - DEBUG --> Finished building content tree for % at    0.0004 seconds [4]
+2021-11-08 5:54:25 - DEBUG --> Content tree is
+Array
+(
+)
+
+2021-11-08 5:54:25 - INFO --> Import of /tmp/phpWHbRi4 completed using mapping nadim: 0 imported/0 skipped/0 errors
+2021-11-08 7:27:58 - INFO --> Started import of /tmp/php07fopO using mapping nadim
+2021-11-08 7:27:58 - DEBUG --> Finished reading input source at    0.0075 seconds
+2021-11-08 7:27:58 - DEBUG --> Found 4 rows in input source
+2021-11-08 7:27:58 - DEBUG --> Finished analyzing mapping at    0.0103 seconds
+2021-11-08 7:27:58 - DEBUG --> Skipped initial row 0 of 1
+2021-11-08 7:27:58 - DEBUG --> Started reading row 2 at    0.0000 seconds
+2021-11-08 7:27:58 - ERROR --> PHPExcel_Exception: Column string index can not be longer than 3 characters
+2021-11-08 7:47:31 - ERROR --> PHPExcel_Exception: Column string index can not be longer than 3 characters
+2021-11-08 9:18:41 - ERROR --> Error importing FZH CV.doc from OpenKM/Collections/FZH Fayza Heikal/FZH Documents: No media was specified
+2021-11-08 9:22:32 - ERROR --> Error importing FZH CV.doc from OpenKM/Collections/FZH Fayza Heikal/FZH Documents: No media was specified
+2021-11-08 9:22:37 - ERROR --> Error importing FZH 058.jpg from OpenKM/Collections/FZH Fayza Heikal/FZH Photos: No media was specified
+2021-11-08 9:23:59 - ERROR --> Error importing FZH Narrative 1of4.mp4 from OpenKM/Collections/FZH Fayza Heikal/FZH Videos: File could not be processed for media: Couldn't do transformation 'SCALE'
+2021-11-08 9:23:59 - ERROR --> Error importing FZH Promo 1.5 min..mp4 from OpenKM/Collections/FZH Fayza Heikal/FZH Videos: No media was specified
+2021-11-08 9:28:17 - ERROR --> Error importing ISL0114-DC01-A-Door of Emir Qajmas al Ishaqi, Batanouni XX a.jpg from OpenKM/Projects/WOOBEX Catalogue/Burgi Mamluks/114 Qijmas al-Ishaqi/04 Photos: No media was specified
+2021-11-08 9:28:39 - ERROR --> Error importing QIJMAS.dwg.DWG from OpenKM/Projects/WOOBEX Catalogue/Burgi Mamluks/114 Qijmas al-Ishaqi/06 Drawings: No media was specified
+2021-11-08 9:28:39 - ERROR --> Error importing Qijmas Minbar M1L.dwg from OpenKM/Projects/WOOBEX Catalogue/Burgi Mamluks/114 Qijmas al-Ishaqi/06 Drawings: No media was specified
+2021-11-08 9:28:46 - ERROR --> Error importing 2010 Qijmas Gazbeya El Hamamsy Text.pdf from OpenKM/Projects/WOOBEX Catalogue/Burgi Mamluks/114 Qijmas al-Ishaqi/07 Bibliography: No media was specified
+2021-11-08 9:28:46 - ERROR --> Error importing 2010 Qijmas Gazbeya Elhamamsy-figures.pdf from OpenKM/Projects/WOOBEX Catalogue/Burgi Mamluks/114 Qijmas al-Ishaqi/07 Bibliography: No media was specified
+2021-11-08 9:35:44 - ERROR --> Error importing el-Fakahani Mosque (1).pdf from OpenKM/Projects/WOOBEX Catalogue/Fatimids/109 Fakahani Mosque/03 Comite': No media was specified
+2021-11-08 9:36:04 - ERROR --> Error importing el-Fakahani Mosque.pdf from OpenKM/Projects/WOOBEX Catalogue/Fatimids/109 Fakahani Mosque/03 Comite': No media was specified

@@ -1,0 +1,5 @@
+2022-06-28 4:42:09 - ERROR --> ApplicationException: CSRF check failed
+2022-06-28 4:53:33 - ERROR --> ApplicationException: CSRF check failed
+2022-06-28 5:16:46 - ERROR --> ApplicationException: CSRF check failed
+2022-06-28 6:53:50 - ERROR --> ApplicationException: CSRF check failed
+2022-06-28 6:54:24 - ERROR --> ApplicationException: CSRF check failed

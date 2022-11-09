@@ -1,0 +1,1 @@
+2022-06-26 7:41:29 - ERROR --> ApplicationException: CSRF check failed
